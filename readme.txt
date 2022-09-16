@@ -1,0 +1,1 @@
+this app is trying to simulate all cases using CancellationToken with EF Core 6
